@@ -1,0 +1,5 @@
+*.pyc
+.idea
+.ipynb_checkpoints
+src/__pycache__/
+src/MNIST_data/
